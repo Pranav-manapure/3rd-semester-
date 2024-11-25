@@ -1,0 +1,25 @@
+ATTENDANCE MANAGEMENT SYSTEM 
+
+Username : code
+
+Password : codeprojects
+
+BEFORE RUNNING PLEASE SET DATABASE DIRECTORY WHICH IS INSIDE 
+\Attendance managementsystem\Attendance managementsystem\Attendance.mdf
+
+-> Current Directory(uploader's directory) is " F:\Sem.4\C# Projects\Attendance managementsystem\Attendance managementsystem\Attendance.mdf "
+DON'T FORGET TO CHANGE IT OTHER WISE THE SYSTEM WILL DISPLAY ERROR.
+
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+
+***** FOR MORE PROJECTS :- https://code-projects.org/c/project/ *****
+
+
+
+
+THANK YOU FOR DOWNLOADING :) 

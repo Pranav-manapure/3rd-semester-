@@ -1,0 +1,62 @@
+c:\users\n\documents\visual studio 2010\Projects\Attendance managementsystem\Attendance managementsystem\bin\Debug\Attendance managementsystem.exe
+c:\users\n\documents\visual studio 2010\Projects\Attendance managementsystem\Attendance managementsystem\bin\Debug\Attendance managementsystem.pdb
+c:\users\n\documents\visual studio 2010\Projects\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance_managementsystem.Form1.resources
+c:\users\n\documents\visual studio 2010\Projects\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance_managementsystem.Home.resources
+c:\users\n\documents\visual studio 2010\Projects\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance_managementsystem.Properties.Resources.resources
+c:\users\n\documents\visual studio 2010\Projects\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance managementsystem.csproj.GenerateResource.Cache
+c:\users\n\documents\visual studio 2010\Projects\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance managementsystem.exe
+c:\users\n\documents\visual studio 2010\Projects\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance managementsystem.pdb
+c:\users\n\documents\visual studio 2010\Projects\Attendance managementsystem\Attendance managementsystem\bin\Debug\Attendance.mdf
+c:\users\n\documents\visual studio 2010\Projects\Attendance managementsystem\Attendance managementsystem\bin\Debug\Attendance_log.ldf
+c:\users\n\documents\visual studio 2010\Projects\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance_managementsystem.AddStudent.resources
+c:\users\n\documents\visual studio 2010\Projects\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance_managementsystem.home2.resources
+c:\users\n\documents\visual studio 2010\Projects\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance_managementsystem.ShowAttendance.resources
+c:\users\n\documents\visual studio 2010\Projects\Attendance managementsystem\Attendance managementsystem\bin\Debug\Attendance managementsystem.exe.config
+F:\Sem.4\C# Projects\Trials\Attendance managementsystem\Attendance managementsystem\bin\Debug\Attendance.mdf
+F:\Sem.4\C# Projects\Trials\Attendance managementsystem\Attendance managementsystem\bin\Debug\Attendance_log.ldf
+F:\Sem.4\C# Projects\Trials\Attendance managementsystem\Attendance managementsystem\bin\Debug\Attendance managementsystem.exe.config
+F:\Sem.4\C# Projects\Trials\Attendance managementsystem\Attendance managementsystem\bin\Debug\Attendance managementsystem.exe
+F:\Sem.4\C# Projects\Trials\Attendance managementsystem\Attendance managementsystem\bin\Debug\Attendance managementsystem.pdb
+F:\Sem.4\C# Projects\Trials\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance managementsystem.csprojResolveAssemblyReference.cache
+F:\Sem.4\C# Projects\Trials\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance_managementsystem.AddStudent.resources
+F:\Sem.4\C# Projects\Trials\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance_managementsystem.Form1.resources
+F:\Sem.4\C# Projects\Trials\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance_managementsystem.Home.resources
+F:\Sem.4\C# Projects\Trials\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance_managementsystem.home2.resources
+F:\Sem.4\C# Projects\Trials\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance_managementsystem.Properties.Resources.resources
+F:\Sem.4\C# Projects\Trials\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance_managementsystem.ShowAttendance.resources
+F:\Sem.4\C# Projects\Trials\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance managementsystem.csproj.GenerateResource.Cache
+F:\Sem.4\C# Projects\Trials\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance managementsystem.csproj.CoreCompileInputs.cache
+F:\Sem.4\C# Projects\Trials\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance managementsystem.exe
+F:\Sem.4\C# Projects\Trials\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance managementsystem.pdb
+F:\Sem.4\C# Projects\Attendance managementsystem\Attendance managementsystem\bin\Debug\Attendance.mdf
+F:\Sem.4\C# Projects\Attendance managementsystem\Attendance managementsystem\bin\Debug\Attendance_log.ldf
+F:\Sem.4\C# Projects\Attendance managementsystem\Attendance managementsystem\bin\Debug\Attendance managementsystem.exe.config
+F:\Sem.4\C# Projects\Attendance managementsystem\Attendance managementsystem\bin\Debug\Attendance managementsystem.exe
+F:\Sem.4\C# Projects\Attendance managementsystem\Attendance managementsystem\bin\Debug\Attendance managementsystem.pdb
+F:\Sem.4\C# Projects\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance managementsystem.csprojResolveAssemblyReference.cache
+F:\Sem.4\C# Projects\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance_managementsystem.AddStudent.resources
+F:\Sem.4\C# Projects\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance_managementsystem.Form1.resources
+F:\Sem.4\C# Projects\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance_managementsystem.Home.resources
+F:\Sem.4\C# Projects\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance_managementsystem.home2.resources
+F:\Sem.4\C# Projects\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance_managementsystem.Properties.Resources.resources
+F:\Sem.4\C# Projects\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance_managementsystem.ShowAttendance.resources
+F:\Sem.4\C# Projects\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance managementsystem.csproj.GenerateResource.Cache
+F:\Sem.4\C# Projects\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance managementsystem.csproj.CoreCompileInputs.cache
+F:\Sem.4\C# Projects\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance managementsystem.exe
+F:\Sem.4\C# Projects\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance managementsystem.pdb
+F:\Code Projects Files\NEWW C Projects 19nov\Attendance Management C#\Attendance managementsystem\Attendance managementsystem\bin\Debug\Attendance.mdf
+F:\Code Projects Files\NEWW C Projects 19nov\Attendance Management C#\Attendance managementsystem\Attendance managementsystem\bin\Debug\Attendance_log.ldf
+F:\Code Projects Files\NEWW C Projects 19nov\Attendance Management C#\Attendance managementsystem\Attendance managementsystem\bin\Debug\Attendance managementsystem.exe.config
+F:\Code Projects Files\NEWW C Projects 19nov\Attendance Management C#\Attendance managementsystem\Attendance managementsystem\bin\Debug\Attendance managementsystem.exe
+F:\Code Projects Files\NEWW C Projects 19nov\Attendance Management C#\Attendance managementsystem\Attendance managementsystem\bin\Debug\Attendance managementsystem.pdb
+F:\Code Projects Files\NEWW C Projects 19nov\Attendance Management C#\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance managementsystem.csprojResolveAssemblyReference.cache
+F:\Code Projects Files\NEWW C Projects 19nov\Attendance Management C#\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance_managementsystem.AddStudent.resources
+F:\Code Projects Files\NEWW C Projects 19nov\Attendance Management C#\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance_managementsystem.Form1.resources
+F:\Code Projects Files\NEWW C Projects 19nov\Attendance Management C#\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance_managementsystem.Home.resources
+F:\Code Projects Files\NEWW C Projects 19nov\Attendance Management C#\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance_managementsystem.home2.resources
+F:\Code Projects Files\NEWW C Projects 19nov\Attendance Management C#\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance_managementsystem.Properties.Resources.resources
+F:\Code Projects Files\NEWW C Projects 19nov\Attendance Management C#\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance_managementsystem.ShowAttendance.resources
+F:\Code Projects Files\NEWW C Projects 19nov\Attendance Management C#\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance managementsystem.csproj.GenerateResource.Cache
+F:\Code Projects Files\NEWW C Projects 19nov\Attendance Management C#\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance managementsystem.csproj.CoreCompileInputs.cache
+F:\Code Projects Files\NEWW C Projects 19nov\Attendance Management C#\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance managementsystem.exe
+F:\Code Projects Files\NEWW C Projects 19nov\Attendance Management C#\Attendance managementsystem\Attendance managementsystem\obj\x86\Debug\Attendance managementsystem.pdb
